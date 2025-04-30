@@ -1,16 +1,16 @@
 export const Bio = {
   name: "Vaibhav Kumar Singh",
   roles: [
-    "Full Stack Developer",
+    
     "AI/ML Developer",
     "Problem Solving",
     "Programmer",
+    "Backend Developer
   ],
   description:
   "Driven by a strong desire to expand my knowledge and a passion for tackling challenging problems, I am navigating the competitive coding landscape to achieve excellence in development. There is so much to learn, and four years of college seem insufficient.",
   github: "https://github.com/20Vaibhavk",
-  resume:
-    "https://drive.google.com/file/d/1AZ5caOvVqN3v1mHZIS-9upT0sL9fGB5h/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/111cFBalGdRlo6EeRv2kujuIZlWVccKmn/view",
   linkedin: "https://www.linkedin.com/in/20vaibhavk/",
   twitter: "https://x.com/VaibhavKum79789",
   insta: "https://www.instagram.com/vaibhav20_/",
@@ -69,7 +69,7 @@ export const skills = [
       },
       
       {
-        name: "Python",
+        name: "Python & APIs development",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
       },
@@ -98,7 +98,7 @@ export const skills = [
     title: "Others",
     skills: [
       {
-        name: "Machine Learning",
+        name: "AI/ML",
         image:
           "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
       },
@@ -112,10 +112,16 @@ export const skills = [
         image:
           "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
       },
+    
       {
         name: "GitHub",
         image:
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      },
+      {
+        name: "API(Rest APIs, FastAPIs",
+        image:
+          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
       },
       {
         name: "Docker",
@@ -123,7 +129,7 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
       },
       {
-        name: "AWS EC2",
+        name: "GCP/AWS",
         image:
           "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
       },
@@ -148,7 +154,7 @@ export const experiences = [
     img: "https://media.licdn.com/dms/image/D4D0BAQFTJ3jznsCP5g/company-logo_200_200/0/1683980289074/equidei_logo?e=1724284800&v=beta&t=GHdPsz8lq0nqhJrhkel1k1_4dj6t4bhgXUc5A8531D0",
     role: "Backend Engineering Intern",
     company: "EquiDEI",
-    date: "Jan 2024 - Present",
+    date: "Jan 2024 - Oct 2024",
     desc: "Working on SME & MSME Dashboard, managing Database, and streamlining the process with automation.",
     skills: [
       "Docker",
@@ -160,6 +166,9 @@ export const experiences = [
       "App Script",
       "Postgres",
       "Postman",
+      "GCP",
+      "AI/ML",
+      "LLMs"
       
     ],
     doc: "https://drive.google.com/file/d/1wOzRSlG092cb0FmTzQkU8D4M0Mt6Chf2/view?usp=sharing",
@@ -235,7 +244,7 @@ export const projects = [
     webapp: "",
     member: [
       {
-        name: "Rishav Chanda",
+        name: "Vaibhav Kumar Singh",
         img: "https://drive.google.com/file/d/1F4U0spZi-enyQTqmploO0dr_g4nbKsIo/view?usp=drive_link",
         linkedin: "https://www.linkedin.com/in/20vaibhavk/",
         github: "https://github.com/20Vaibhavk",
